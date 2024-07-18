@@ -6,6 +6,7 @@
     
 </head>
 <body>
+    <a href="prajwal-wahane-resume.html" download>📄 Download Resume</a>
     <h1>📱 Prajwal Wahane</h1>
     <p><strong>Android Framework Developer</strong></p>
     <p>🗓️ Total experience: 3.5 Years</p>
